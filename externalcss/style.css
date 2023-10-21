@@ -1,0 +1,9 @@
+#MyRect:hover {
+  stroke: red;
+  fill: black;
+}
+
+#MyRect {
+  fill: purple;
+  stroke: black;
+}
